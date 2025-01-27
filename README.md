@@ -47,8 +47,6 @@ ORB (Online Recipe Book) is a modern, feature-rich web application designed for 
   - JSON Web Tokens (JWT)
 - **State Management**: 
   - React Hooks
-- **Deployment**: 
-  - Vercel (recommended)
 
 ## Getting Started
 
