@@ -5,16 +5,7 @@
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Getting Started](#getting-started)
-5. [Project Structure](#project-structure)
-6. [API Endpoints](#api-endpoints)
-7. [Authentication](#authentication)
-8. [Database Schema](#database-schema)
-9. [Styling and Theming](#styling-and-theming)
-10. [Performance Optimizations](#performance-optimizations)
-11. [Testing](#testing)
-12. [Deployment](#deployment)
-13. [Contributing](#contributing)
-14. [License](#license)
+
 
 ## Introduction
 
